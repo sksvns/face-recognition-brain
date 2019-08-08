@@ -2,6 +2,7 @@
   "name": "facerecognitionbrain",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://sksvns.github.io/face-recognition-brain"
   "dependencies": {
     "clarifai": "^2.8.0",
     "react": "^16.4.2",
